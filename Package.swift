@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KernelDefenseVideoProcessor",
-            url: "https://github.com/kerneldefense/videoprocessor/releases/download/0.9.22/KernelDefenseVideoProcessor.xcframework.zip",
-            checksum: "892fe910d1f7e7813afdf5dd4430e30684a4c81e6ab610c1b43ff97f719a5d56"
+            url: "https://github.com/kerneldefense/videoprocessor/releases/download/0.9.23/KernelDefenseVideoProcessor.xcframework.zip",
+            checksum: "a3905f4593ca07788ff5319592656b3aa60c7cf422a0e275a73bf45af7a560f0"
         ),
     ]
 )
